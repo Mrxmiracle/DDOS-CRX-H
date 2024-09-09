@@ -4,9 +4,21 @@ Run on pydroid 3 apk (Android)
 
 First you have to Run The All IN ONE PIP.py File IN Terminal
 
-use pip install pyfiglet
+~apt update && upgrade
 
-Then DDOS CRXSH.py File in terminal by (Bash) command - 
+~pkg install git
+
+~pkg install python
+
+~pkg install pip
+
+~pkg install colorama
+
+~pip install requests
+
+~pip install pyfiglet
+
+Then DDOS_CRX_H.py File in terminal by (Python DDOS_CRX_H.py) command - 
 
 U can down any web using this tool 
 
